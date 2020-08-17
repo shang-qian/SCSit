@@ -5,13 +5,9 @@ Introduction
 Install from executable binaries
 
 $ git clone https://github.com/shang-qian/SCSit
-
 $ cd SCSit/
-
 $ ./make.sh
-
 $ export PATH=$PATH:$(pwd)
-
 
 After installation, all the executable files can be found in SCSit/. The command line
 
