@@ -2,12 +2,14 @@ Introduction
 
     SCSit:A high-efficiency cell types identification tool for single-cell sequencing data from SPLiT-seq
 
-
 Install from executable binaries
 
 $ git clone https://github.com/shang-qian/SCSit
+
 $ cd SCSit/
+
 $ ./make.sh
+
 $ export PATH=$PATH:$(pwd)
 
 After installation, all the executable files can be found in SCSit/. The command line
@@ -15,6 +17,7 @@ After installation, all the executable files can be found in SCSit/. The command
 export PATH=$PATH:$(pwd)
 
 above is used for adding SCSit/ to the system PATH.
+
 Quick Start
 
 SCSit -r1 input_r1.fastq -r2 input_r2.fastq -p primer.list -b barcode.list -t 4 -o output
