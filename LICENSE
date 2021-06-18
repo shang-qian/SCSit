@@ -1,7 +1,7 @@
 The MIT License
 
    SCSit  (A high-efficiency preprocessing tool for single-cell sequencing data from SPLiT-seq),
-   Copyright (C) 2021 Intel Corporation, Shangqian Xie.
+   Copyright (C) 2021 Intel Corporation, Bioinformatics Lab, Hainan University.
 
    Permission is hereby granted, free of charge, to any person obtaining
    a copy of this software and associated documentation files (the
@@ -24,3 +24,4 @@ The MIT License
    SOFTWARE.
 
 Contacts: Shangqian Xie <sqianxie@foxmail.com>
+          Meiwei Luan <meiweiluan@163.com>
