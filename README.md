@@ -17,7 +17,7 @@ Introduction
     
     or, SCSit is part of the Anaconda distribution and can be installed with Anaconda or Miniconda
     
-    conda install ¨Cc bioconda scsit
+    conda install Â¨Cc bioconda scsit
 
 
 Quick Start
@@ -27,5 +27,5 @@ Quick Start
     In the above example, 4 CPU threads will be used.
 Contact
 
-    Shang-Qian Xie, Email: sqianxie@foxmail.com
-    Mei-Wei Luan, Email: meiweiluan@163.com
+    Shangqian Xie, Email: sqianxie@foxmail.com
+    Meiwei Luan, Email: meiweiluan@163.com
