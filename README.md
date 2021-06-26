@@ -17,7 +17,7 @@ Introduction
     
     or, SCSit is part of the Anaconda distribution and can be installed with Anaconda or Miniconda
     
-    conda install ¨Cc bioconda scsit
+    conda install -c bioconda scsit
 
 
 Quick Start
