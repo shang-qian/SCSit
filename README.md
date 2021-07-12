@@ -5,23 +5,23 @@ Introduction
     Install from executable binaries
 
     git clone https://github.com/shang-qian/SCSit.git
-    cd SCSit/
-    ./make.sh
-    export PATH=$PATH:$(pwd)
+      cd SCSit/
+      ./make.sh
+      export PATH=$PATH:$(pwd)
 
     After installation, all the executable files can be found in SCSit/. The command line
 
-    export PATH=$PATH:$(pwd)
+      export PATH=$PATH:$(pwd)
 
     above is used for adding SCSit/ to the system PATH.
     
     or, SCSit is part of the Anaconda distribution and can be installed with Anaconda or Miniconda
     
-    conda install scsit
+      conda install scsit
     
     or, SCSit is part of the PyPI distribution and can be installed with python.
     
-    python3 -m pip install scsit-tools
+      python3 -m pip install scsit-tools
 
 
 Quick Start
