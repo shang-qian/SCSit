@@ -15,15 +15,11 @@ Introduction
 
     above is used for adding SCSit/ to the system PATH.
     
-    or, SCSit is part of the Anaconda distribution and can be installed with Anaconda or Miniconda
+    Or, SCSit is part of the Anaconda distribution and can be installed with Anaconda or Miniconda with PyPI
     
-      conda install scsit
+      pip install -i https://pypi.anaconda.org/susiew01/simple scsit-tools
     
-    or, SCSit is part of the PyPI distribution and can be installed with python.
     
-      python3 -m pip install scsit-tools
-
-
 Quick Start
 
     SCSit -r1 input_r1.fastq -r2 input_r2.fastq -p primer.list -b barcode.list -t 4 -o output
