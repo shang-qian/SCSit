@@ -36,7 +36,7 @@ Newly opened files will immediately appear in finished percentage of running fil
 
 Example:
 
-| SCSit -r1 input_r1.fastq -r2 input_r2.fastq -p primer.list -b barcode.list -t 4 -o output|  
+| scsit -r1 input_r1.fastq -r2 input_r2.fastq -p primer.list -b barcode.list -t 4 -o output|  
 | ---------------------- |
 
 
