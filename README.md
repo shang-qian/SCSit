@@ -16,8 +16,8 @@
   
 | -------------------------------- |
 | conda create -n scsit python=3.6 | 
- conda activate scsit | 
- conda install -c susiew01 scsit  |  
+| conda activate scsit | 
+| conda install -c susiew01 scsit  |  
 
   Or, SCSit is part of the Anaconda distribution and can be installed with PyPi
   
