@@ -1,10 +1,10 @@
 ### Content
 
 1. Introduction
-2. Basic Operations
+1. Basic Operations
   1. Installation
-  2. Getting Start
-3. Citation and Contact
+  1. Getting Start
+1. Citation and Contact
 
 # SCSit
   A high-efficiency preprocessing tool for single-cell sequencing data from SPLiT-seq
