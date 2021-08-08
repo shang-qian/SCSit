@@ -12,15 +12,10 @@
 ## 2.	Basic Operations
 
 ### 2.1	Installation
-  SCSit is part of the Anaconda distribution and can be installed with Anaconda or Miniconda
+  SCSit is part of the Anaconda distribution and can be installed with Anaconda or Miniconda with python3.6
 
-| conda create -n scsit python=3.6 | 
-| conda activate scsit | 
 | conda install -c susiew01 scsit  | 
 | -------------------------------- |
-| -------------------------------- |
-| -------------------------------- |
-
 
   Or, SCSit is part of the Anaconda distribution and can be installed with PyPi
   
