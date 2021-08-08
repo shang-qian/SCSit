@@ -13,19 +13,20 @@
 
 ### 2.1	Installation
   SCSit is part of the Anaconda distribution and can be installed with Anaconda or Miniconda
-  
+| conda create -n scsit python=3.6 | 
+| conda activate scsit | 
 | conda install -c susiew01 scsit |  
-| ------------------------------- |
+| -------------------------------- |
 
   Or, SCSit is part of the Anaconda distribution and can be installed with PyPi
   
-| pip install scsit-tools|  
-| ---------------------- |
+| pip install scsit|  
+| ---------------- |
 
   Or, SCSit is optimized for x86-64 CPUs. You can acquire precompiled C program from the release page with:
 
-| git clone https://github.com/shang-qian/SCSit.git   &&   cd SCSit  && ./make.sh|
-| -------------------------------------------------------------------- |
+| git clone https://github.com/shang-qian/SCSit.git   &&  cd SCSit  && ./make.sh|
+| ------------------------------------------------------------------------------ |
 
  
 ### 2.2	Getting started
